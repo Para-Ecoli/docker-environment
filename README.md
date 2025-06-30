@@ -8,7 +8,7 @@
 
 使用VMware的 *打开* 功能，选择vmx文件加载虚拟机。
 
-<img src="C:\Users\wuhao\Desktop\assets\image-20250630193219621.png" alt="image-20250630193219621" style="zoom: 67%;" /><img src="C:\Users\wuhao\Desktop\assets\image-20250630193631526.png" alt="image-20250630193631526" style="zoom:50%;" />
+<img src="./assets/image-20250630193219621.png" alt="image-20250630193219621" style="zoom: 67%;" /><img src="./assets/image-20250630193631526.png" alt="image-20250630193631526" style="zoom: 50%;" />
 
 ### 系统用户
 
@@ -24,7 +24,7 @@
 
 可在【容器->编排->创建编排】中创建docker-compose项目。
 
-![image-20250630194425301](C:\Users\wuhao\Desktop\assets\image-20250630194425301.png)
+![image-20250630194425301](./assets/image-20250630194425301.png)
 
 ## 实现细节
 
